@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in West Virginia, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 37 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `552270` |
 | Location | West Virginia |
 | Category | Restaurants |
-| Full dataset size | 385 records |
-| Free sample size | 38 records (9.87%) |
-| Last export | 2026-04-07T22:42:04.281605+00:00 |
+| Full dataset size | 370 records |
+| Free sample size | 37 records (10.0%) |
+| Last export | 2026-04-15T04:26:47.372252+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-west-virginia-us-sample-552270/releases/download/sample-latest/beamstation_552270_restaurants-us-wv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
