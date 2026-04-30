@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9f995564-d1cd-453d-89b3-ed0b690e9ac0",
+  "export_job_id": "f3ac757e-0122-4543-99cd-ef14733e081f",
   "id_short": 552270,
-  "published_at": "2026-04-22T19:54:18Z",
+  "published_at": "2026-04-30T07:36:29Z",
   "repo_name": "restaurant-verified-email-access-in-west-virginia-us-sample-552270",
   "sample_asset_name": "beamstation_552270_restaurants-us-wv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/552270/beamstation_552270_restaurants-us-wv_SAMPLE_DIST.csv",
-  "sample_records": 43,
-  "sample_sha256": "471072753be075beab17078c60952a5d3ae05af24c512ee0f7ec3a8cae0dfc1a",
-  "sample_size_bytes": 173121,
-  "total_records": 437
+  "sample_records": 45,
+  "sample_sha256": "93226fdf931008b7cf95396413b6fb0d0aa3f4b542caf156c76eff47084fe4ce",
+  "sample_size_bytes": 177105,
+  "total_records": 455
 }
